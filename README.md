@@ -1,5 +1,5 @@
 # hello, how are you
-![个人照片](photo.jpg)  <!-- 替换为你的照片路径，支持网络图片URL -->
+![个人照片](https://github.com/2563610544/xianweiding1.github.io/raw/9343b3c6203d39cf8ff516e0c3d3b55cdcb117f3/figure.jpg)  <!-- 替换为你的照片路径，支持网络图片URL -->
 
 # 你的姓名  
 **Professor**  
