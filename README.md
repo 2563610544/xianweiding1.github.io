@@ -1,4 +1,4 @@
-# hello, how are you
+# hello, how are you?
 ![个人照片](photo.jpg)  <!-- 替换为你的照片路径，支持网络图片URL -->
 
 # 你的姓名  
